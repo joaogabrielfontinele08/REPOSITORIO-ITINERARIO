@@ -10,4 +10,5 @@ int main() {
     printf("Triangulo: %.4lf\n", areaTriangulo);
     printf("Trapezio: %.4lf\n", areaTrapezio);
     return 0;
+    
 }
